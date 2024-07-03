@@ -1,0 +1,71 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: linghthblue;
+}
+#tres{
+  text-align: center;
+  background: #5eace8;
+}
+
+#pou{
+  background-color: #2490c6;
+  width: 500px;
+  height: 400px;
+  border: 1px solid  black;
+
+}
+#ovo{
+    background-color: #2490c6;
+  width: 500px;
+  height: 80px;
+  border: 1px solid black;
+
+
+}
+
+#copo{
+  background-color: #2490c6;
+width: 500px;
+height: 0px;
+
+}
+
+#banana{
+  background-color: #2490c6;
+width: 500px;
+height: 0px;
+
+}
+
+#um{
+  color:red
+  
+}
+
+#dois{
+  background-color:#5abcdd;
+  border-radius: 10px;
+}
+
+#botao2{
+  display:center;
+  text-align: center;
+  
+  button {
+    border-radius: 10px;
+  }
+   
+}
+
+#limao
+{
+   background-color: #5abcdd;
+}
+
+
+#filho
+{
+  font-family:'arial'Akzidenz Grotesk;
+}
+
